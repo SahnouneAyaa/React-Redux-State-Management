@@ -1,21 +1,38 @@
-# Redux CRUD Tutorial
+# React State Management with Redux Toolkit
 
-A beginner-friendly tutorial created in collaboration with the Scientific Club at my university to teach students how to manage application state and implement CRUD operations using Redux in React.
+A React application built to demonstrate global state management using Redux Toolkit.
 
-The project demonstrates:
+---
 
-- Configuring a Redux store and slices  
-- Using `useSelector` and `useDispatch` hooks  
-- Performing CRUD operations: add, delete, update users  
+## Overview
+This project focuses on managing application state in React using Redux Toolkit and modern React patterns.
 
+It represents my first practical experience working with Redux and understanding how to structure and manage global state in a scalable way.
+
+---
+
+## Features
+
+- Add items to global state
+- Update existing items
+- Delete items
+- Access shared state across components
+
+---
+
+## State Management Concepts
+
+- Creating slices using `createSlice`
+- Configuring store with `configureStore`
+- Dispatching actions with `useDispatch`
+- Accessing state using `useSelector`
+- Structuring scalable state logic
+
+---
 
 ## Tech Stack
 
-- React  
-- Redux Toolkit  
-- JavaScript (ES6+)  
-
-## Author
-
-Aya Sahnoune  
-Full-Stack Developer – React, Next.js, Node.js
+- React
+- Redux Toolkit
+- React Redux
+- JavaScript (ES6+)
