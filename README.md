@@ -2,14 +2,12 @@
 
 A React application built to demonstrate global state management using Redux Toolkit.
 
----
 
 ## Overview
 This project focuses on managing application state in React using Redux Toolkit and modern React patterns.
 
 It represents my first practical experience working with Redux and understanding how to structure and manage global state in a scalable way.
 
----
 
 ## Features
 
@@ -18,7 +16,6 @@ It represents my first practical experience working with Redux and understanding
 - Delete items
 - Access shared state across components
 
----
 
 ## State Management Concepts
 
@@ -28,7 +25,6 @@ It represents my first practical experience working with Redux and understanding
 - Accessing state using `useSelector`
 - Structuring scalable state logic
 
----
 
 ## Tech Stack
 
